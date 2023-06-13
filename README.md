@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @zuluknockoutguy
 - 👀 I’m interested in ... 
--   Creating and developing in-house applications.
+      Creating and developing in-house applications.
 - 🌱 I’m currently learning ...
--   Full Stack Development in C#/C++/Java with React
+      Full Stack Development in C#/C++/Java with React
 - 💞️ I’m looking to collaborate on ...
--   Existing and new projects with new or old data.
+      Existing and new projects with new or old data.
 - 📫 How to reach me ...
 
 <!---
